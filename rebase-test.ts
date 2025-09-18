@@ -4,7 +4,7 @@ class RebaseTest{
     z=30;
 
     printValues() {
-        console.log(`x = ${this.x}, y = ${this.y}, z = ${this.z}`);
+        console.log(`x = ${this.x}, y = ${this.}, z = ${this.z}`);
     }
 }
 
