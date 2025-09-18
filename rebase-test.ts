@@ -1,8 +1,9 @@
 class RebaseTest{
     x=10;
+    y=20;
 
     printValues() {
-        console.log(`x = ${this.x}`);
+        console.log(`x = ${this.x}, y = ${this.y}`);
     }
 }
 
