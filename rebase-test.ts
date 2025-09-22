@@ -5,8 +5,10 @@ class RebaseTest{
     a=10;
     b=20;
     c=10;
+    aa =10;
     printValues() {
-        console.log(`x = ${this.x}, y = ${this.}, z = ${this.z}, a=${this.a}, b=${this.b},c=${this.c}`);
+        console.log(`x = ${this.x}, y = ${this.y}, z = ${this.z}, a=${this.a}, b=${this.b},c=${this.c}`);
+        console.log("changes in master");
     }
 }
 
