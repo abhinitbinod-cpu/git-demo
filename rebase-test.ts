@@ -9,6 +9,8 @@ class RebaseTest{
     printValues() {
         console.log(`x = ${this.x}, y = ${this.y}, z = ${this.z}, a=${this.a}, b=${this.b},c=${this.c}`);
         console.log("changes in master");
+        console.log("Working in feature branch");
+        console.log("git cherry pick");
     }
 }
 
