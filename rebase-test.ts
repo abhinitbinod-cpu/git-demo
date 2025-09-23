@@ -11,6 +11,7 @@ class RebaseTest{
         console.log("changes in master");
         console.log("Working in feature branch");
         console.log("git cherry pick");
+        console.log("working in master branch");
     }
 }
 
